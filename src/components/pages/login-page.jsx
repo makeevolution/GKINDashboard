@@ -262,6 +262,16 @@ export function LoginPage() {
               </CardTitle>
               <CardDescription className="text-gray-600 text-base">
                 Sign in to the Dienst Dashboard
+                        
+              </CardDescription>
+              <CardDescription className="text-gray-500 text-sm mt-1">
+liturgy: "liturgy123",
+        pastor: "pastor123",
+        translation: "translation123",
+        beamer: "beamer123",
+        music: "music123",
+        treasurer: "treasurer123",
+        admin: "admin2025",
               </CardDescription>
             </CardHeader>
           </div>

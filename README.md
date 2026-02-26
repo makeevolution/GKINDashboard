@@ -28,6 +28,10 @@ The dashboard provides a centralized workspace for six service roles — liturgy
 ## Development
 
 ```bash
+# Install packages (for frontend and backend)
+npm install
+cd server && npm install
+
 # Start frontend (port 5173)
 npm run dev
 
